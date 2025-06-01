@@ -19,6 +19,7 @@ python app/app.py
 ```
 
 ## Screenshots
+azure smart health assistant screenshot![image](https://github.com/user-attachments/assets/edc15ffa-96d2-4a89-bd45-cae10d7ea7e4)
 
 
 ## License
