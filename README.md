@@ -19,7 +19,7 @@ python app/app.py
 ```
 
 ## Screenshots
-Add screenshots in `/demo_screenshots/`.
+
 
 ## License
 MIT
