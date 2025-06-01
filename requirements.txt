@@ -1,2 +1,3 @@
 flask
 openai
+Microsoft Azure AI subscription 
